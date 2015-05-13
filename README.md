@@ -19,3 +19,4 @@ character in the plaintext with the character that's a fixed number of character
 <p>To Test, please run/compile crypto_main.c
 And enter jaws_encr.txt or an encrypted text file into the command-line. You may optionally enter a dict file. If not it will look at the default path. 
 Wait a few minutes (decrypting) and it will output the decrypt text. </p>
+<img src="https://github.com/netlams/CryptoCracker/blob/master/TestScreens/begin.png" />
